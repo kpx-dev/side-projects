@@ -14,4 +14,4 @@ List all the projects that I plan to work on
 | newpal | Meet random local stranger | https://github.com/KNNCreative/newpal | 
 | tour | Take people on tour to cool destinations | | 
 | time_wasted | Chrome extension to track how much time wasted on Social Networking Sites | | 
-| medium-hilight-off | Turn off Medium.com right click hilight popup | [https://chrome.google.com/webstore/detail/medium-hilight-off/lfhbdbplpphacepapppdobnenkfimagn](demo) | 
+| medium-hilight-off | Turn off Medium.com right click hilight popup | (https://chrome.google.com/webstore/detail/medium-hilight-off/lfhbdbplpphacepapppdobnenkfimagn)[demo] | 
