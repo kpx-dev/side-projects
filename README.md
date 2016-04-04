@@ -11,5 +11,5 @@ List all the projects that I plan to work on
 | career_day | Take people to visit tech offices and have on-site pairing / interview | | 
 | mvp_4_startup | Non-tech co-founder needed some team to build out their initial MVP | | 
 | rao_vat | Craiglist / Facebook Group for Vietnamese buying / selling stuffs locally | | 
-| newpal | Meet random local stranger | | 
+| newpal | Meet random local stranger | https://github.com/KNNCreative/newpal | 
 | tour | Take people on tour to cool destinations | | 
