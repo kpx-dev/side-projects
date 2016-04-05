@@ -9,6 +9,7 @@ List all the projects that I plan to work on to hopefully one day it can go to t
 | time_wasted | Chrome extension to track how much time wasted on Social Networking Sites | | 
 | medium-hilight-off | Turn off Medium.com right click hilight popup | https://chrome.google.com/webstore/detail/medium-hilight-off/lfhbdbplpphacepapppdobnenkfimagn |
 | weekly-email-summary | Summarize all Hacker News / Reddit top post |  | 
+| should-I-carwash | Should I wash my car now? Yes / No because of weather info |  | 
 
 ## Big project (YC candidate!)
 | name | description | demo
