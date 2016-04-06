@@ -24,3 +24,5 @@ List all the projects that I plan to work on to hopefully one day it can go to t
 | tour | Take people on tour to cool destinations | | 
 | raspberry_pie | I got one, I need to do something with it | |
 | weekend_cash | Let's make some quick cash legally over weekend / part time | |
+| emergency_fund | Allow people to easily save up to 3-6 months' income | |
+| evelope_cash | Save cash in evelope but online | |
