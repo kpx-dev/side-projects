@@ -1,11 +1,11 @@
-# projects
+# Kien's Projects
 List all the projects that I plan to work on. Goals for all these projects:
-* Learn - For me and anyone to learn how to code, get more technical
-* Open Source - Anyone can make improvement on these projects
-* Startup - One day to form a startup out of all this!
+* **Learn** - For me and anyone to learn how to code, get more technical
+* **Open Source** - Anyone can make improvement on these projects
+* **Startup** - One day to form a startup out of all this!
 
-## Small project (less than 1 week)
-| name | description | demo
+## Small Projects (less than 1 week)
+| name | elevator pitch | demo
 | --- | --- | --- |
 | tshirt_bot | Send t-shirt to open source contributors of your project | |
 | os_bot | Sign agreement before contributing to your open source project | |
@@ -16,8 +16,8 @@ List all the projects that I plan to work on. Goals for all these projects:
 | slash_creds | Slackbot slash command to PM me the credentials |  |
 | gcj_analytics | Google Code Jam Analytics |  | |
 
-## Big project (YC candidate!)
-| name | description | demo
+## Big Projects (YC candidate!)
+| name | elevator pitch | demo
 | --- | --- | --- |
 | 8341 | Property Management Platform | [demo](http://8341app.github.io) |
 | alert_api | Non-tech people just wanted a simple BI tool that alert (email / sms / slack) them when 1 of their metric is bad | |
