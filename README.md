@@ -5,7 +5,7 @@ List all the projects that I plan to work on. Goals for all these projects:
 * **Startup** - One day to form a startup out of all this!
 
 ## Small Projects (less than 1 week)
-| name | elevator pitch | demo
+| name | elevator pitch | live demo
 | --- | --- | --- |
 | tshirt_bot | Send t-shirt to open source contributors of your project | |
 | os_bot | Sign agreement before contributing to your open source project | |
@@ -14,10 +14,10 @@ List all the projects that I plan to work on. Goals for all these projects:
 | weekly-email-summary | Summarize all Hacker News / Reddit top post |  |
 | should-I-carwash | Should I wash my car now? Yes / No because of weather info |  |
 | slash_creds | Slackbot slash command to PM me the credentials |  |
-| gcj_analytics | Google Code Jam Analytics |  | |
+| gcj_analytics | Google Code Jam Analytics | [demo](https://github.com/kienpham2000/gcj_analytics) |
 
 ## Big Projects (YC candidate!)
-| name | elevator pitch | demo
+| name | elevator pitch | live demo
 | --- | --- | --- |
 | 8341 | Property Management Platform | [demo](http://8341app.github.io) |
 | alert_api | Non-tech people just wanted a simple BI tool that alert (email / sms / slack) them when 1 of their metric is bad | |
@@ -29,4 +29,6 @@ List all the projects that I plan to work on. Goals for all these projects:
 | raspberry_pie | I got one, I need to do something with it | |
 | weekend_cash | Let's make some quick cash legally over weekend / part time | |
 | emergency_fund | Allow people to easily save up to 3-6 months' income | |
-| evelope_cash | Save cash in evelope but online | | |
+| evelope_cash | Save cash in evelope but online | |
+| localhost_api | Run a local / internal api for home automation | [demo](https://github.com/LocalhostAPI) |
+| lunch_playlist | Give me something short to watch while eating lunch | [demo](https://github.com/LunchPlaylists) | |
