@@ -32,3 +32,7 @@ List all the projects that I plan to work on. Goals for all these projects:
 | evelope_cash | Save cash in evelope but online | |
 | localhost_api | Run a local / internal api for home automation | [demo](https://github.com/LocalhostAPI) |
 | lunch_playlist | Give me something short to watch while eating lunch | [demo](https://github.com/LunchPlaylists) | |
+| aws_experts | Call and talk to an AWS expert| [demo](https://github.com) | |
+| postgres_admin | ui to query PostgreSQL | |
+| aws_certs | app to watch aws videos to train for certs | |
+| video_2_podcast | listen to video | |
