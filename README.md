@@ -1,2 +1,1 @@
-# Kien's Projects
-[Open Ideas](https://github.com/kienpham2000/projects/wiki/Open-Ideas)
+# [Free Open Source Ideas](https://github.com/kienpham2000/projects/wiki/Free-Open-Source-Ideas)
