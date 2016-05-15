@@ -15,6 +15,8 @@ List all the projects that I plan to work on. Goals for all these projects:
 | should-I-carwash | Should I wash my car now? Yes / No because of weather info |  |
 | slash_creds | Slackbot slash command to PM me the credentials |  |
 | gcj_analytics | Google Code Jam Analytics | [demo](https://github.com/kienpham2000/gcj_analytics) |
+| wipe_my_facebook | Deep clean your Facebook profiles |  |
+| nsfw_bot | NSFW gif / link / video |  |
 
 ## Big Projects (YC candidate!)
 | name | elevator pitch | live demo
