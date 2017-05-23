@@ -54,3 +54,5 @@ You should have your own side projects that solve your own need too! Don't worry
 | nails_on_demand | Uber for nail services at home | |
 | massage_on_demand | Uber for massage services at home | |
 | gc_4_all | Gift card solution for small business | | |
+| [license_plate](projects/license_plate.md) | Google Street Map for License Plate | | |
+| [nuna_crm](projects/nuna_crm.md) | CRM for small business | | |
