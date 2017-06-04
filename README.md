@@ -56,3 +56,4 @@ You should have your own side projects that solve your own need too! Don't worry
 | gc_4_all | Gift card solution for small business | | |
 | [license_plate](projects/license_plate.md) | Google Street Map for License Plate | | |
 | [nuna_crm](projects/nuna_crm.md) | CRM for small business | | |
+| [1_log_analysis](projects/1_log_analysis.md) | Parse 1 single log file and analyze it | | |
