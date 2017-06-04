@@ -28,6 +28,7 @@ You should have your own side projects that solve your own need too! Don't worry
 | linkedin_scanner | Scan for profile changes, status update, who just got let go? | |
 | [please_stand_up](https://github.com/KNNCreative/please_stand_up) | macOS / Windows app to tell you to standup every 30 minutes | [demo](https://github.com/KNNCreative/please_stand_up/releases/download/0.0.1/Standup-macOS.zip) |
 | [cloud_trail_bot](https://github.com/KNNCreative/cloudtrail_bot) | Slack bot to post events from AWS CloudTrail | |
+| [txt-todo](https://github.com/KNNCreative/txt-todo) | Super SIMPLE text file todo | [demo](https://www.youtube.com/watch?v=raGt5hAhGFc) |
 | [firehose-mock](https://github.com/KNNCreative/firehose-mock) | Mock out AWS Kinesis Firehose in Nodejs for testing, similar to: https://github.com/mhart/kinesalite  | | |
 
 
